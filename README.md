@@ -48,8 +48,10 @@ Each user is identified by their Stellar address, and their credit score is secu
 ---
 
 ## 🔗 Deployed Smart Contract Link
+https://github.com/ankit79600/CreditScoringSystem/blob/main/Screenshot%202026-03-19%20133745.png
 
-xxx
+Transaction link - https://stellar.expert/explorer/testnet/tx/6a96ba072448888df9edc222852976f61791015e6b596c729433ea0b0761d21f
+Signing transaction: 6a96ba072448888df9edc222852976f61791015e6b596c729433ea0b0761d21f
 
 ---
 
