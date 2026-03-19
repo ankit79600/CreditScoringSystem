@@ -52,7 +52,7 @@ Each user is identified by their Stellar address, and their credit score is secu
 
 
 Transaction link - https://stellar.expert/explorer/testnet/tx/6a96ba072448888df9edc222852976f61791015e6b596c729433ea0b0761d21f
-Signing transaction: 6a96ba072448888df9edc222852976f61791015e6b596c729433ea0b0761d21f
+ Signing transaction: 6a96ba072448888df9edc222852976f61791015e6b596c729433ea0b0761d21f
 https://lab.stellar.org/r/testnet/contract/CAMMJEMADQX43NF4SHH4IGIJNZCP67KGOMZCAEX6HFT7LGVKDTNZOAAD 
 
 ---
